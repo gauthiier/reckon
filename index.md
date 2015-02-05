@@ -44,7 +44,7 @@ ORIGIN Old English _(ge)recenian_‘recount, relate’, of West Germanic origin;
 
 ----
 
-> 4. Digital Computers
+> 4 Digital Computers
 
 > The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. The human computer is supposed to be following fixed rules; he has no authority to deviate from them in any detail. We may suppose that these rules are supplied in a book, which is altered whenever he is put on to a new job. He has also an unlimited supply of paper on which he does his calculations. He may also do his multiplications and additions on a "desk machine," but this is not important.
 
