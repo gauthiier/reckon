@@ -88,7 +88,7 @@ Norber Wiener, _Cybernetics_
 
 Claude Shannon, _A symbolic analysis of relay and switching circuits_
 
-![](/img/shannon.png)
+![](img/shannon.png)
 
 -- [Claude Shannon, _A symbolic analysis of relay and switching circuits_, MIT M.Sc Thesis](http://dspace.mit.edu/handle/1721.1/11173)
 
