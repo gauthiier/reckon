@@ -76,7 +76,7 @@ Norber Wiener, _Cybernetics_
 
 > To accomplish reason able results in a reasonable time, it thus became necessary to push the speed of the elementary processes to the maximum, and to avoid interrupting the stream of these processes by steps of an essentially slower nature. It also became necessary to perform the individual processes with so high a degree of accuracy that the enormous repetition of the elementary processes should not bring about a cumulative error so great as to swamp all accuracy. Thus the following requirements were suggested:
 
-1. That the central adding and multiplying apparatus of the computing machine should be numerical, as in an ordinary adding machine, rather than on a basis of measurement, as in the Bush differential analyzer.
+>1. That the central adding and multiplying apparatus of the computing machine should be numerical, as in an ordinary adding machine, rather than on a basis of measurement, as in the Bush differential analyzer.
 2. That these mechanisms, which are essentially switching devices, should depend on electronic tubes rather than on gears or mechanical relays, in order to secure quicker action.
 3. That, in accordance with the policy adopted in some existing apparatus of the Bell Telephone Laboratories, it would probably be more economical in apparatus to adopt the scale of two for addition and multiplication, rather than the scale of ten.
 4. That the entire sequence of operations be laid out on the machine itself so that there should be no human intervention from the time the data were entered until the final results should be taken off, and that all logical decisions necessary for this should be built into the machine itself.
