@@ -75,6 +75,7 @@ ORIGIN early 17th cent.: from French _**computer**_ or Latin _**computare**_, **
 Norber Wiener, _Cybernetics_ 
 
 > To accomplish reason able results in a reasonable time, it thus became necessary to push the speed of the elementary processes to the maximum, and to avoid interrupting the stream of these processes by steps of an essentially slower nature. It also became necessary to perform the individual processes with so high a degree of accuracy that the enormous repetition of the elementary processes should not bring about a cumulative error so great as to swamp all accuracy. Thus the following requirements were suggested:
+
 1. That the central adding and multiplying apparatus of the computing machine should be numerical, as in an ordinary adding machine, rather than on a basis of measurement, as in the Bush differential analyzer.
 2. That these mechanisms, which are essentially switching devices, should depend on electronic tubes rather than on gears or mechanical relays, in order to secure quicker action.
 3. That, in accordance with the policy adopted in some existing apparatus of the Bell Telephone Laboratories, it would probably be more economical in apparatus to adopt the scale of two for addition and multiplication, rather than the scale of ten.
@@ -93,7 +94,7 @@ Claude Shannon, _A symbolic analysis of relay and switching circuits_
 
 ----
 
-George Boole, _The Mathematical Analysis of Logic
+George Boole, _The Mathematical Analysis of Logic_
 
 > We might justly assign it as the definitive character of a true Calculus, that it is a method resting upon the employment of Symbols, whose laws of combination are known and general, and whose results admit of a consistent interpretation. That to the existing forms of Analysis a quantitative interpretation is assigned, is the result of the circumstances by which those forms were determined, and is not to be construed into a universal condition of Analysis. It is upon the foundation of this general principle, that I purpose to establish the Calculus of Logic, and that I claim for it a place among the acknowledged forms of Mathematical Analysis, regardless that in its object and in its instruments it must at present stand alone.
 
