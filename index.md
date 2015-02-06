@@ -33,6 +33,14 @@ ORIGIN Old English _(ge)recenian_‘recount, relate’, of West Germanic origin;
 
 ----
 
+John Stuart Mill, _A System of Logic: Ratiocinative and Inductive_
+
+_Whenever the nature of the subject permits our reasoning processes to be, without danger, carried on mechanically, the language should be constructed on as mechanical principles as possible; while in the contrary case, it should be so constructed that there shall be the greatest possible obstacles to a merely mechanical use of it._
+
+[John Stuart Mill, _A System of Logic: Ratiocinative and Inductive_, Vol. II p.260](http://www.gutenberg.org/files/35421/35421-h/35421-h.htm#Page_289)
+
+----
+
 ## compute |kəmˈpjuːt|
 verb [ with obj. ]
 reckon or calculate (a figure or amount): _the hire charge is computed on a daily basis._
@@ -83,8 +91,21 @@ Claude Shannon, _A symbolic analysis of relay and switching circuits_
 
 -- [Claude Shannon, _A symbolic analysis of relay and switching circuits_, MIT M.Sc Thesis](http://dspace.mit.edu/handle/1721.1/11173)
 
+----
 
+George Boole, _The Mathematical Analysis of Logic
 
+> We might justly assign it as the definitive character of a true Calculus, that it is a method resting upon the employment of Symbols, whose laws of combination are known and general, and whose results admit of a consistent interpretation. That to the existing forms of Analysis a quantitative interpretation is assigned, is the result of the circumstances by which those forms were determined, and is not to be construed into a universal condition of Analysis. It is upon the foundation of this general principle, that I purpose to establish the Calculus of Logic, and that I claim for it a place among the acknowledged forms of Mathematical Analysis, regardless that in its object and in its instruments it must at present stand alone.
+
+[George Boole, _The Mathematical Analysis of Logic: Being an Essay Towards a Calculus of Deductive Reasoning_ p.4](http://www.gutenberg.org/files/36884/36884-pdf.pdf?session_id=8cb262941aa0df95dff4520e00b3aa7060799906)
+
+----
+
+Leibnitz. _Explication de l’arithmétique binaire_
+
+![](img/leibniz-calcul-binaire.png)
+
+[Godefroy-Guillaume Leibnitz. _Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures chinoises de Fohy_. Mémoires de mathématique et de physique de l’Académie royale des sciences, Académie royale des sciences, 1703.](img/Leibniz_ArithmetiqueBinaire.pdf)
 
 
 
