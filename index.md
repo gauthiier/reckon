@@ -108,5 +108,24 @@ Leibnitz. _Explication de l’arithmétique binaire_
 
 [Godefroy-Guillaume Leibnitz. _Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures chinoises de Fohy_. Mémoires de mathématique et de physique de l’Académie royale des sciences, Académie royale des sciences, 1703.](img/Leibniz_ArithmetiqueBinaire.pdf)
 
+----
+
+## When Computers Where Humans
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/YwqltwvPnkw" frameborder="0" allowfullscreen></iframe>
+
+----
+
+![](/img/reckoners.png)
+
+[link to book](http://ed-thelen.org/comp-hist/Reckoners.html#TOC)
+
+----
+
+Stibitz, George - "Relay Computers"
+
+> By “calculator” or “calculating machine” we shall mean a device . . capable of accepting two numbers A and B, and of forming some or any of thecombinations A + B,A - B,A x B,A/B.By “computer” we shall mean a machine capable of carrying out automatically a succession of oper- ations of this kind and of storing the necessary intermediate results . . . . Human agents will be referred to as “operators” to distinguish them from “computers” (machines).
+
+-- Stibitz, George. February, 1945. “Relay Computers.” National Defense Research Committee, Applied Mathematics Panel, AMP Report 171.1R. via Ceruzzi, Paul E. “When Computers Were Human.” Annals of the History of Computing 13, no. 3 (July 1991): 237–44. doi:10.1109/MAHC.1991.10025.
 
 
