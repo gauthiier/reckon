@@ -69,7 +69,9 @@ ORIGIN early 17th cent.: from French _**computer**_ or Latin _**computare**_, **
 > Most actual digital computers have only a finite store. There is no theoretical difficulty in the idea of a computer with an unlimited store. Of course only a finite part can have been used at any one time. Likewise only a finite amount can have been constructed, but we can imagine more and more being added as required. Such computers have special theoretical interest and will be called infinitive capacity computers.
 
 ----
+
 ![](http://archive.computerhistory.org/resources/still-image/Bush-Vannevar/bush_vannevar_differential_analyzer.c1930.102618648.lg.jpg)
+
 ----
 
 Norber Wiener, _Cybernetics_ 
