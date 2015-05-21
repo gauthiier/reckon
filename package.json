@@ -1,0 +1,26 @@
+{
+  "name": "reckon",
+  "version": "0.0.0",
+  "description": "Reckoning Histories of Computation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gauthiier/reckon.git"
+  },
+  "keywords": [
+    "Arcades",
+    "Project"
+  ],
+  "author": "gauthiier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauthiier/reckon/issues"
+  },
+  "homepage": "https://github.com/gauthiier/reckon",
+  "dependencies": {
+    "nodegit": "^0.4.0"
+  }
+}
