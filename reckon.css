@@ -1,0 +1,43 @@
+body {
+	font-family: "Times New Roman", Times, Georgia, serif;
+	background-color: #ffff99;
+	bbackground-color: #e9d6a8;
+	bbackground-color: #eeeeee;
+}
+
+#listing {
+	width: 100%;
+}
+
+#title {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin: 3em;
+}
+
+entry {
+	display: block;
+	width: 75%;
+	border: 1px solid grey;
+	min-width: 650px;
+	margin-top: 0.6em;
+	padding: 0.6em;
+	background-color: #ffffcc;	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+commit {
+	display: block;	
+}
+
+content {
+	display: block;	
+}
+
+content img {
+	max-width: 300px;
+	border: 1px solid grey;
+	background-color: white;
+}
