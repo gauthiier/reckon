@@ -8,8 +8,8 @@ var git_data = []
 
 var cnt = 0;
 
-//var export_path = 'export/';
-var export_path = '/Users/gauthiier/Desktop/vbox/reckon_export/export';
+var export_path = 'export';
+//var export_path = '/Users/gauthiier/Desktop/vbox/reckon_export/export';
 var export_index_fname = 'index.json';
 var export_index = null;
 
