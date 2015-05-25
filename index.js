@@ -2,14 +2,13 @@ var nodegit = require('nodegit')
 var path = require('path')
 var fs = require('fs')
 
+var git_branch = 'gh-pages';
+
 var all = []
-
 var git_data = []
-
 var cnt = 0;
 
 var export_path = 'export';
-//var export_path = '/Users/gauthiier/Desktop/vbox/reckon_export/export';
 var export_index_fname = 'index.json';
 var export_index = null;
 
@@ -29,7 +28,7 @@ if(fs.existsSync(export_index_path))
 
 nodegit.Repository.open(path.resolve(__dirname, './.git'))
 	.then(function(repo) {
-		return repo.getBranchCommit('prototype');
+		return repo.getBranchCommit(git_branch);
 	})
 	.then(function(first_commit) {
 		var history = first_commit.history(nodegit.Revwalk.SORT.REVERSE);
@@ -83,11 +82,11 @@ function emit_git_entry(entry) {
 
 	html += '<entry>\n'
 
-	html += '	<commit><h1>Commit: ' + entry.commit + '</h1></commit>\n';
+	html += '	<commit><h2>Commit: ' + entry.commit + '</h2></commit>\n';
 
 	html += '	<commit>' + entry.date + '</commit>\n';
 
-	html += '	<message><h2>' + entry.message + '</h2></message>\n';
+	html += '	<message><h3>' + entry.message + '</h3></message>\n';
 
 	html += '	<content>\n';
 
