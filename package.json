@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/gauthiier/reckon",
   "dependencies": {
+    "ghostscript": "https://github.com/gauthiier/node-ghostscript/tarball/master",
     "nodegit": "^0.4.0"
+  },
+  "scripts" : {
+    "export": "node export.js",
+    "index": "node index.js > index.html"
   }
 }
