@@ -66,8 +66,11 @@ nodegit.Repository.open(path.resolve(__dirname, './.git'))
     history.on("end", function() {
     	var body = '';
     	git_data.reverse();
-			for(var i in git_data)
-				body += emit_git_entry(git_data[i]);
+			for(var i in git_data) {
+				if(git_data[i].files.length > 0)
+					body += emit_git_entry(git_data[i]);
+			}
+				
 			console.log(template.replace('[[_export_]]', body));
     });
 
